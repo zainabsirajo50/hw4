@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "464092683396",
+    "project_id": "csc-4360-hw4",
+    "storage_bucket": "csc-4360-hw4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464092683396:android:3f2934fed6e770369336d1",
+        "android_client_info": {
+          "package_name": "com.example.hw5"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoq8VypgfVFsIEHw73MYPS8I37QlI5Xtw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
